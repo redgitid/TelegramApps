@@ -1,8 +1,8 @@
 # Telegram-Client
 
-Informazioni sui vari Client Telegram noti
+**Informazioni sui vari Client Telegram noti.**
 
-![screenshot](assets/Screen_framed.png)
+![screenshot](assets/frame.png)
 
 [Telegram Client Pack by t.me/TgUserX](https://t.me/addstickers/ClientTelegrambyRedDroidUser)
 
