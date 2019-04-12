@@ -2,7 +2,7 @@
 
 **Informazioni sui vari Client Telegram.**
 
-![screenshot](assets/frame.png)
+![screenshot](assets/client.png)
 
 https://telegra.ph/TelegramApps-03-01
 
