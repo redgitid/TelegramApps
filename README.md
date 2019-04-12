@@ -1,6 +1,6 @@
-# Telegram Client
+# Telegram Apps
 
-**Informazioni sui vari Client Telegram.**
+**Informazioni sulle varie app di @Telegram.**
 
 ![screenshot](assets/client.png)
 
