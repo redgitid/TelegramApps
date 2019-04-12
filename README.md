@@ -1,4 +1,4 @@
-# Telegram-Client
+# Telegram Client
 
 **Informazioni sui vari Client Telegram.**
 
